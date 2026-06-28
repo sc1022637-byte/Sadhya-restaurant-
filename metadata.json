@@ -1,0 +1,6 @@
+{
+  "name": "Sadhya Restaurant",
+  "description": "A premium and elegant website demo for Sadhya Restaurant in Hathras, Uttar Pradesh. Explore our rich menu of tandoori specialties, refreshing surprise shakes, and classic street-style sandwiches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
